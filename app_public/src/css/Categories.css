@@ -1,0 +1,10 @@
+#categories {
+    display: grid !important;
+    flex-direction: column;
+}
+
+#gridd {
+    display: grid;
+
+    grid-template-columns: auto auto auto;
+}
